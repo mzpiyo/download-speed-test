@@ -1,5 +1,7 @@
 # download-speed-test
 
+Englist | [简体中文](./README.zh-CN.md)
+
 ### Description
 This Python script allows users to test the download speed from a specified URL. It measures the time taken to download data in chunks and calculates the average download speed in KB/s. The script handles exceptions for inaccessible URLs and provides feedback on the download process.
 
@@ -32,5 +34,3 @@ This Python script allows users to test the download speed from a specified URL.
 下载在 5.23 秒内完成。
 平均下载速度: 195.34 KB/s
 ```
-
-Feel free to customize the script and improve its functionality as needed!
